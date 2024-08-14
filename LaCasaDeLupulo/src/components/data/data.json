@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "nombre": "Berliner Guayaba",
+    "marca": "Fauna",
+    "img": "/fauna1.jpg",
+    "estilo": "BERLINER",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 2,
+    "nombre": "Bruja Del Pacífico",
+    "marca": "Fauna",
+    "img": "/fauna2.jpg",
+    "estilo": "RAINFOREST IPA",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "nombre": "Danza Macabra",
+    "marca": "Fauna",
+    "img": "/fauna3.jpg",
+    "estilo": "MILK STOUT",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Helium",
+    "marca": "Fauna",
+    "img": "/fauna4.jpg",
+    "estilo": "LAGER, PILSNER",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "nombre": "Penélope",
+    "marca": "Fauna",
+    "img": "/fauna5.jpg",
+    "estilo": "ROBUST PORTER",
+    "precio": 80,
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "nombre": "Cuatrimoto",
+    "marca": "Hercules",
+    "img": "/Hercules1.png",
+    "estilo": "WHITE STOUT",
+    "precio": 90,
+    "stock": 15
+  },
+  {
+    "id": 7,
+    "nombre": "Húracan",
+    "marca": "Hercules",
+    "img": "/hercules2.png",
+    "estilo": "DOBLE IPA",
+    "precio": 90,
+    "stock": 15
+  },
+  {
+    "id": 8,
+    "nombre": "Pie Grande",
+    "marca": "Hercules",
+    "img": "/hercules3.png",
+    "estilo": "DARK CASCADIAN ALE",
+    "precio": 90,
+    "stock": 15
+  },
+  {
+    "id": 9,
+    "nombre": "Lanzallamas",
+    "marca": "Hercules",
+    "img": "/hercules4.png",
+    "estilo": "RUSSIAN IMPERIAL STOUT",
+    "precio": 90,
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "nombre": "Terrícola",
+    "marca": "Hercules",
+    "img": "/hercules5.png",
+    "estilo": "SAISON",
+    "precio": 90,
+    "stock": 15
+  },
+  {
+    "id": 11,
+    "nombre": "Banquetera",
+    "marca": "BuquiBichi",
+    "img": "/buqui1.webp",
+    "estilo": "KÖLSCH",
+    "precio": 100,
+    "stock": 15
+  },
+  {
+    "id": 12,
+    "nombre": "Bichetera",
+    "marca": "BuquiBichi",
+    "img": "/buqui2.webp",
+    "estilo": "HAZY IPA",
+    "precio": 100,
+    "stock": 15
+  },
+  {
+    "id": 13,
+    "nombre": "Buena Bola",
+    "marca": "BuquiBichi",
+    "img": "/buqui3.webp",
+    "estilo": "WHEAT BEER",
+    "precio": 100,
+    "stock": 15
+  },
+  {
+    "id": 14,
+    "nombre": "Sahuaripa",
+    "marca": "BuquiBichi",
+    "img": "/buqui4.webp",
+    "estilo": "IPA",
+    "precio": 100,
+    "stock": 15
+  },
+  {
+    "id": 15,
+    "nombre": "Ultra Bichi",
+    "marca": "BuquiBichi",
+    "img": "/buqui5.webp",
+    "estilo": "ULTRA LAGER",
+    "precio": 100,
+    "stock": 15
+  }
+]

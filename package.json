@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "aos": "^2.3.4",
+    "firebase": "^10.12.5",
+    "react-hook-form": "^7.52.2",
+    "react-router-dom": "^6.26.0"
+  }
+}
